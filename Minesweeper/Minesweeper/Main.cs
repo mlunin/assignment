@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Minesweeper
 {
-    class Game
+    public class Game
     {
         static void Main(string[] args)
         {

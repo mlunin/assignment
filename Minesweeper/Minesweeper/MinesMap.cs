@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Minesweeper
 {
-    class MinesMap : IMinesMap
+    public class MinesMap : IMinesMap
     {
         private int _n;
         private int _m;
